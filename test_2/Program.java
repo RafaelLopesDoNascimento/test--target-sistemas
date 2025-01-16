@@ -14,6 +14,7 @@ public class Program {
         fibonacci.add(0);
         fibonacci.add(1);
         
+        System.out.println("Digite um valor:");
         int value = sc.nextInt();
         
         boolean stop = false;
